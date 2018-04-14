@@ -33,6 +33,6 @@ Spring 与 ActiveMQ 的集成，实现了点对点或队列模型与发布者／
 ## other
 
 视频教程地址：<br>
-imooc：<a href="https://www.imooc.com/learn/856">https://www.imooc.com/learn/856</a>
+imooc：<a href="https://www.imooc.com/learn/856">https://www.imooc.com/learn/856</a><br>
 可参考博文：<br>
 什么是消息队列：<a href="https://blog.csdn.net/codejas/article/details/79930909">https://blog.csdn.net/codejas/article/details/79930909</a>
