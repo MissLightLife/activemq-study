@@ -1,5 +1,5 @@
 ## JMS 模型
-Java 消息服务应用程序结构支持两种模型：点对点或队列模型与发布/订阅模型。
+Java 消息服务应用程序结构支持两种模型：点对点或队列模型与发布/订阅模型。Apache ActiveMQ 是一个开源的 JMS 提供者，用来管理会话和队列。
 
 ### 点对点或队列模型
 
@@ -25,4 +25,8 @@ Java 消息服务应用程序结构支持两种模型：点对点或队列模型
 ## activemq-study
 
 ### activemq-test-demo
+使用 ActiveMQ 与 JMS 原生 API 简单实现了点对点或队列模型与发布者／订阅者模型。
+
+### activemq-spring-demo
+Spring 与 ActiveMQ 的集成，
 
