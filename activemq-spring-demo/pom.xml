@@ -33,12 +33,6 @@
 
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-test</artifactId>
-            <version>${spring-version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework</groupId>
             <artifactId>spring-jms</artifactId>
             <version>${spring-version}</version>
         </dependency>
@@ -47,6 +41,7 @@
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-core</artifactId>
             <version>5.7.0</version>
+            <!-- 排除 ActiveMQ 自身依赖的 Spring -->
             <exclusions>
                 <exclusion>
                     <artifactId>spring-context</artifactId>
