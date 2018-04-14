@@ -4,7 +4,7 @@ Java 消息服务应用程序结构支持两种模型：点对点或队列模型
 ### 点对点或队列模型
 
 在点对点或队列模型下，一个生产者向一个特定的队列发布消息，一个消费者从该队列中读取消息。
-<img src="https://img-blog.csdn.net/20180414160428907?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NvZGVqYXM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="75%">
+<img src="https://img-blog.csdn.net/20180414160428907?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NvZGVqYXM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70">
 
  - <font size=3>只有一个消费者将获得消息。
 
@@ -15,7 +15,7 @@ Java 消息服务应用程序结构支持两种模型：点对点或队列模型
  ### 发布者／订阅者模型
  
  发布者／订阅者模型支持向一个特定的消息主题发布消息。
-<img src="https://img-blog.csdn.net/20180414160436368?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NvZGVqYXM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="75%">
+<img src="https://img-blog.csdn.net/20180414160436368?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NvZGVqYXM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70">
 
  - <font size=3>多个消费者可以获得消息。
 
