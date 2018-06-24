@@ -24,15 +24,16 @@ Java 消息服务应用程序结构支持两种模型：点对点或队列模型
 ## activemq-study
 
 ### activemq-test-demo
-使用 ActiveMQ 与 JMS 原生 API 简单实现了点对点或队列模型与发布者／订阅者模型。
+使用 ActiveMQ 与 JMS 原生 API 简单实现了点对点和队列模型与发布者／订阅者模型。
 
 ### activemq-spring-demo
-Spring 与 ActiveMQ 的集成，实现了点对点或队列模型与发布者／订阅者模型的简单 demo。
+Spring 与 ActiveMQ 的集成，实现了点对点和队列模型与发布者／订阅者模型的简单 demo。
 
 ## other
 
 视频教程地址：<br>
 imooc：<a href="https://www.imooc.com/learn/856" target="_blank">https://www.imooc.com/learn/856</a><br>
+
 可参考博文：<br>
 什么是消息队列：<a href="https://blog.csdn.net/codejas/article/details/79930909" target="_blank">https://blog.csdn.net/codejas/article/details/79930909</a><br>
 ActiveMQ简单集成Spring：<a href="https://blog.csdn.net/codejas/article/details/79940261" target="_blank">https://blog.csdn.net/codejas/article/details/79940261</a>
